@@ -1,0 +1,1 @@
+python3 auto_master_dir.py input_dir output_dir --num_bands 16 --mid_band_gain 3 --low_band_gain 1 --high_band_gain 1
