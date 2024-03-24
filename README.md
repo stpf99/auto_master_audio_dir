@@ -5,6 +5,6 @@ python3 auto_master_dir_lamps.py in out --num_bands 64 --mid_band_gain 8 --low_b
 
 multiprocessing:
 
-93min > 8 min 
+230 TRACKS 93min > 8 min 
 
 on xeon 1.8ghz x 12c/24t
